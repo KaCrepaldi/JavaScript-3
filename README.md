@@ -1,6 +1,6 @@
 # JavaScript-3
 
-## DOM
+ ## DOM
 - Document Object Model
 - Estrutura de um arquivo na Web
 - Representa documentos HTML ou XML
